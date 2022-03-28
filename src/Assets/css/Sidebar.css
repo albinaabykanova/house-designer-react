@@ -1,0 +1,50 @@
+.png-1 {
+     width: 10% !important;
+     height: 25px;  
+}
+
+.sidebar {
+     justify-content: center !important;
+     align-items: center !important;
+     min-height: 10vh;
+     
+}
+
+.katolog {
+    color:  black !important;
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+
+.onlain {
+    color: black !important;
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+
+.search {
+    margin-left: 40px;
+}
+
+.heart {
+    margin-left: 40px;
+    color: #DC1B32;
+}
+
+.heart-2 {
+    margin-left: 40px;
+    color: #A2A2A2;  
+}
+
+.two {
+    margin-left: 5px;
+    text-align: center;
+}
+
+.zero {
+    color: #A2A2A2;
+    margin-left: 5px;
+}
+

@@ -1,0 +1,45 @@
+.about-foto {
+    width: 60%;
+    height: 70%;
+    margin-left: 30%;
+}
+
+.about1-foto {
+    width: 60%;
+    height: 70%;
+}
+
+.title-about {
+    font-weight: bold;
+    margin-left: 15%;
+    font-size: 35px;
+}
+
+.desk-about {
+    font-size: 15px;
+    margin-left: 15%;
+    color: #404040;
+}
+
+.title2-about {
+    color: #DC1B32;
+    text-decoration: underline;
+    margin-left: 15%;
+}
+
+.text-about1 {
+    font-size: 11px;
+    margin-left: 30%;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.text-about {
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.about-body {
+    margin-top: 40px !important;
+}

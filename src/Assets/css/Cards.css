@@ -1,0 +1,139 @@
+.danger-card{
+    background-color: #DC1B32 !important;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    width: 21%;
+    font-size: 10px;
+    height: 35px;
+}
+
+.title-cardy {
+    margin-left: 20px;
+    margin-top: 50px !important;
+}
+
+.icon-card {
+    color: #A2A2A2;
+    font-size: 18px;
+}
+
+.fotow {
+    margin-top: 25px;
+}
+
+.user {
+    justify-content: space-between;
+    
+}
+
+.user-1 {
+    justify-content: space-between;
+}
+
+.desk-card {
+   color: grey;
+   font-size: 18px;
+}
+.p-10{
+    padding: 30px;
+    margin-left: 5% !important;
+}
+
+
+.desk-red {
+    color: #DC1B32 ;
+    font-weight: bold;
+}
+
+.prof-card  {
+    display: flex !important;
+}
+
+.dark1 {
+    width: 10% !important;
+    height: 30px;
+    font-size: 10px;
+    background-color: #000;
+    color: white;
+}
+
+.dark2 {
+    width: 8% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+    margin-left: 5px;
+}
+
+.dark3 {
+    width: 8% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+    margin-left: 5px;
+}
+
+.dark4 {
+    width: 8% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+    margin-left: 5px;
+}
+
+.dark5 {
+    width: 10% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+    margin-left: 5px;
+}
+
+.dark6 {
+    width: 8% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+    margin-left: 5px;
+}
+
+.dark7 {
+    width: 8% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+}
+
+.dark8 {
+    width: 8% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+    margin-left: 5px;
+}
+
+.dark9 {
+    width: 8% !important;
+    height: 30px;
+    font-size: 10px;
+    color: #000;
+    margin-left: 5px;
+}
+
+
+.card-big {
+    font-size: 20px !important;
+    color: #101010;
+}
+
+.img-cardos {
+    width: 15% !important;
+    height: 30% !important;
+    
+}
+
+
+
+
+

@@ -1,0 +1,41 @@
+.api-img {
+     width: 99% !important;
+     height: 610px !important;
+     background-image: url('../img/Cover.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 79vh !important;
+}
+
+.foto-api {
+   position: absolute;
+   margin-left: 15% !important;
+   border: #101010;
+   background-color: wheat;
+   width: 25% !important;
+   height: 40%;
+   opacity: 0.9;
+   bottom:-85px;
+
+}
+
+.title-api {
+     font-weight: bold;
+     font-size: 25px;
+     margin-left: 60px;
+     padding-top: 25px;
+}
+
+.desk-api {
+     margin-left: 60px;
+     font-size: 12px;
+     text-align: left;
+}
+
+.red {
+     margin-left: 60px;
+     width: 120px;
+     height: 30px;
+     text-align: center;
+     padding-bottom: 30px !important;
+}

@@ -1,0 +1,53 @@
+.util-body {
+    background-color:  #F6F6F6;
+}
+
+.title-util {
+    font-size: 10px !important;
+    line-height: 20px!important;
+  
+}
+
+.uti-foto {
+    width: 45%;
+    height: 350px;
+    margin-top: 90px;
+}
+
+.uti1-foto {
+    width: 45%;
+    height: 350px;
+    margin-left: 30px;
+    margin-top: 90px;
+}
+
+.utilities {
+    margin-left: 12% !important;
+}
+
+.desk-1 {
+    font-weight: bold ;
+    text-decoration-line: underline !important;  
+    color: black !important;   
+}
+
+.colored-1 {
+    color: #DC1B32;
+    margin-top: 5px !important;
+    margin-left: 4.5% !important;
+}
+
+.desk-util {
+    color: #A2A2A2;
+}
+
+.lolo {
+    font-size: 10px;
+    color: #000;
+    font-weight: bold; 
+    margin-top: 20px !important;
+}
+
+.lolo1 {
+    font-size: 10px;
+}

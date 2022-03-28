@@ -1,0 +1,36 @@
+.blackpage-body {
+    background-color: #101010;
+    min-height: 45vh;
+    margin-top: 50px !important;
+    padding-top: 30px;
+}
+
+.desk-black {
+    color: #A2A2A2;
+    font-size: 13px;
+}
+
+.title-black {
+    color: #FFFFFF;
+}
+
+.title1-black {
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.black {
+    font-size: 10px;
+    color: #FFFFFF;
+    margin-left: 60px;
+}
+
+.mir {
+    justify-content: center;
+    align-items: center;
+}
+
+.black-foto {
+    margin-left: 60px;
+}
